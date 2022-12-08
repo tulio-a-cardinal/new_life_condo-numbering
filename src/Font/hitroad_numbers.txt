@@ -1,0 +1,3 @@
+hitroad_numbers.otf is hitroad.ttf (Hit the Road) font by Matthew Welch altered
+using FontForge to have only decimal digits with a spacing of 80 units
+before and after all typefaces.
