@@ -3,6 +3,11 @@ This is a reproduction of apartment numbering plates in the [New Life Condo in P
 
 In order to replace the original numbering plate from the apartment where I lived, I decided to create a generic and vectorized reproduction for all of the apartments in the condo.
 
+### Visual Preview
+
+![visual preview](./visual_preview.png)
+From left to right: raw image, cut image, standardized image, final generated image.
+
 ### Steps
 
 1. Specify the measurements of the size and position of the plates on the doors.
@@ -24,7 +29,7 @@ In order to replace the original numbering plate from the apartment where I live
 
 ### Result
 
-I am very satisfied with the result. Comparing the final pdf file with the reference images shows that the reproduction is incredibly close to the original, and is even, at places, better alligned and more consistent.  
+I am very satisfied with the result. Comparing the final pdf file with the reference images shows that the reproduction is incredibly close to the original, and is even, at places, better aligned and more consistent.  
 Because these plates seem to be reproducible by regular home printing on plain paper, I believe that the pdf format is adequate. However, for ordering a professional printing job, an image format such as lossless jpg (quality 100) is probably preferable.
 
 The biggest obstacles to making new reproduction plates should now be the alignment between the print and the cut, and the affixation of the print onto clear plastic.
